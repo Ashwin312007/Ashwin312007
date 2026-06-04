@@ -1,75 +1,87 @@
-# Ashwin T E
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Ashwin+T+E;Embedded+Developer;Robotics+Engineer;Full-Stack+Explorer" alt="Typing SVG" /> </p>
 
-<p align="left">
-  <strong>Robotics Enthusiast • Embedded Systems Developer • Full-Stack Explorer</strong><br>
-  <a href="https://ashwinte.vercel.app/">Portfolio</a> • 
-  <a href="https://linkedin.com/in/ashwin-t-e-410655240/">LinkedIn</a> • 
-  <a href="mailto:teashwin3@gmail.com">Email</a>
+<p align="center">
+  <a href="https://ashwinte.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/ashwin-t-e-410655240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:teashwin3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### About Me
+### ⌨️ System Info
 
-I am an **Embedded System Developer** passionate about the intersection of electronics and autonomous systems. Currently pursuing a **B.Tech in Mechatronics and Automation** at VIT Chennai, I thrive on building hardware that thinks and acts autonomously.
-
-*   🔭 **Programming Lead** for Team MOVIS (Space Tech) & **R&D Lead** at OSPC-VITC.
-*   🚀 Currently developing autonomous drones for the **ISRO Robotics Challenge** and industrial delivery robots.
-*   🏆 **NASA HERC 2026 Finalist** & "Best Indian Team" awardee.
+```json
+{
+  "name": "Ashwin T E",
+  "identity": "Robotics Enthusiast | Embedded Systems Developer",
+  "education": "B.Tech in Mechatronics & Automation @ VIT Chennai",
+  "leadership": [
+    "Programming Lead @ Team MOVIS (Space Tech)",
+    "R&D Lead @ OSPC-VITC"
+  ],
+  "focus": ["Autonomous Systems", "ROS2", "SLAM", "Industrial Robotics"]
+}
+```
 
 ---
 
-### Technical Expertise
+### 🛠️ Technical Arsenal
 
 #### 🤖 Systems & Robotics
-![ROS2](https://img.shields.io/badge/ROS2-3178C6?style=flat-square&logo=ros&logoColor=white) 
-![SLAM](https://img.shields.io/badge/SLAM-black?style=flat-square) 
-![Control Systems](https://img.shields.io/badge/Control_Systems-black?style=flat-square) 
-![Path Planning](https://img.shields.io/badge/Path_Planning-black?style=flat-square)
+![ROS2](https://img.shields.io/badge/ros2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-black?style=for-the-badge)
+![Path Planning](https://img.shields.io/badge/Path_Planning-black?style=for-the-badge)
+![Control Systems](https://img.shields.io/badge/Control_Systems-black?style=for-the-badge)
 
-#### 💻 Software Engineering
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-![Embedded C](https://img.shields.io/badge/Embedded_C-black?style=flat-square)
+#### 💻 Software & Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Embedded C](https://img.shields.io/badge/Embedded_C-black?style=for-the-badge)
 
-#### 🔌 Hardware & MCU
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) 
-![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) 
-![ESP32](https://img.shields.io/badge/ESP32-black?style=flat-square) 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-
-#### 🛠️ Design & Simulation
-![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F28?style=flat-square&logo=solidworks&logoColor=white) 
-![Fusion 360](https://img.shields.io/badge/Fusion_360-black?style=flat-square&logo=autodesk&logoColor=white) 
-![LTSpice](https://img.shields.io/badge/LTSpice-black?style=flat-square) 
-![PCB Modeling](https://img.shields.io/badge/PCB_Modeling-black?style=flat-square)
+#### 🔌 Hardware & Design
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![STM32](https://img.shields.io/badge/stm32-%2303234b.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-%23DA1F28.svg?style=for-the-badge&logo=solidworks&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-black?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ---
 
-### Key Achievements & Projects
+### 🏆 Trophy Case & Achievements
 
-*   **NASA HERC 2026** | Finalist & Best Indian Team
-    *   Led the electrical implementation for a human-powered rover in a NASA-sponsored competition.
-*   **ISRO Robotics Challenge** | Autonomous Drone
-    *   Developing flight logic and motor control for an autonomous drone utilizing ROS2 and Pixhawk.
-*   **Patent Pending** | Agricultural Automation
-    *   Programming Lead for a project researching Cold Plasma effects on plant growth, automating research systems.
-*   **Autonomous Delivery Robot** | Industrial Grade
-    *   Designing the electronics architecture and implementing SLAM for obstacle detection and navigation.
+*   🚀 **NASA HERC 2026** | Finalist (6th Place)
+    *   *Ranked Best Indian Team & Fastest Team. Handled electrical implementation for Team MOVIS.*
+*   🥇 **REVIVE 2024** | National Hackathon Winner
+    *   *Secured 1st place in a high-stakes national robotics/programming competition.*
+*   ⚙️ **ISRO Robotics Challenge** | Autonomous Drone
+    *   *Developing flight logic and motor control utilizing ROS2 and Pixhawk.*
+*   🥉 **Innovate National Hackathon** | 3rd Place
+    *   *Recognized for excellence in hardware-software integration.*
+*   📍 **Caterpillar Autonomy Challenge** | Semi-finalist
+    *   *Specialized in autonomous navigation and obstacle avoidance.*
+*   📜 **Patent Pending** | Agricultural Automation
+    *   *Leading software development for research into plasma-assisted agricultural growth.*
 
 ---
 
-### GitHub Stats
+### 📊 Telemetry
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin312007&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=586069&icon_color=black" alt="Ashwin's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin312007&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=586069" alt="Top Languages" height="150" />
+<p align="center">
+  <a href="https://github.com/Ashwin312007">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ashwin312007&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=586069&icon_color=000000" alt="Ashwin's GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/Ashwin312007">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin312007&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=586069" alt="Top Languages" height="165" />
+  </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Scanning_for_Opportunities-success?style=flat-square" alt="Status">
+</p>
 
 <p align="center">
   <a href="https://ashwinte.vercel.app/">ashwinte.vercel.app</a>
