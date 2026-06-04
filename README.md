@@ -24,7 +24,7 @@ I am a passionate **Embedded Systems Developer** and **Robotics Enthusiast** cur
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Autogenix](https://github.com/Ashwin312007/Autogenix)** | A TypeScript-based automation and developer tool. | `TypeScript` `Node.js` |
+| **[Autovit_Website](https://github.com/AUTO-VIT/AUTOVIT-WEBSITE)** | A TypeScript-based automation and developer tool. | `TypeScript` `Node.js` |
 | **[HERC-26](https://github.com/KL-Mithunvel/HERC-26)** | Python-driven logic for the NASA HERC RC robotics competition. | `Python` `Robotics` |
 | **[MPMC_Project](https://github.com/Ashwin312007/MPMC_Projrct)** | Low-level C++ programming for Microprocessors and Microcontrollers. | `C++` `Embedded` |
 
