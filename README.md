@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Ashwin+T+E;Embedded+Developer;Robotics+Engineer;Full-Stack+Explorer" alt="Typing SVG" /> </p>
+# <p align="center"> <a href="https://github.com/Ashwin312007#gh-dark-mode-only"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ashwin+T+E;Embedded+Developer;Robotics+Engineer;Full-Stack+Explorer" alt="Typing SVG - Dark Mode" /> </a> <a href="https://github.com/Ashwin312007#gh-light-mode-only"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Ashwin+T+E;Embedded+Developer;Robotics+Engineer;Full-Stack+Explorer" alt="Typing SVG - Light Mode" /> </a> </p>
 
 <p align="center">
   <a href="https://ashwinte.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -8,20 +8,27 @@
 
 ---
 
-### ⌨️ System Info
+### 👋 Hi, I'm Ashwin T E
 
-```json
-{
-  "name": "Ashwin T E",
-  "identity": "Robotics Enthusiast | Embedded Systems Developer",
-  "education": "B.Tech in Mechatronics & Automation @ VIT Chennai",
-  "leadership": [
-    "Programming Lead @ Team MOVIS (Space Tech)",
-    "R&D Lead @ OSPC-VITC"
-  ],
-  "focus": ["Autonomous Systems", "ROS2", "SLAM", "Industrial Robotics"]
-}
-```
+I am a passionate **Embedded Systems Developer** and **Robotics Enthusiast** currently pursuing a B.Tech in **Mechatronics & Automation** at VIT Chennai. I specialize in building hardware and software for autonomous systems, bridging the gap between low-level engineering and modern full-stack development.
+
+*   🔭 **Programming Lead** for Team MOVIS (Space Tech) & **R&D Lead** at OSPC-VITC.
+*   🚀 Currently building autonomous drones for the **ISRO Robotics Challenge**.
+*   🎯 **Core Focus:** Autonomous Navigation, ROS2, SLAM, and Industrial Automation.
+
+---
+
+### 📦 Featured Repositories
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Autogenix](https://github.com/Ashwin312007/Autogenix)** | A TypeScript-based automation and developer tool. | `TypeScript` `Node.js` |
+| **[HERC-26](https://github.com/KL-Mithunvel/HERC-26)** | Python-driven logic for the NASA HERC RC robotics competition. | `Python` `Robotics` |
+| **[MPMC_Project](https://github.com/Ashwin312007/MPMC_Projrct)** | Low-level C++ programming for Microprocessors and Microcontrollers. | `C++` `Embedded` |
+
+</div>
 
 ---
 
@@ -63,19 +70,6 @@
     *   *Specialized in autonomous navigation and obstacle avoidance.*
 *   📜 **Patent Pending** | Agricultural Automation
     *   *Leading software development for research into plasma-assisted agricultural growth.*
-
----
-
-### 📊 Telemetry
-
-<p align="center">
-  <a href="https://github.com/Ashwin312007">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ashwin312007&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=586069&icon_color=000000" alt="Ashwin's GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com/Ashwin312007">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin312007&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=586069" alt="Top Languages" height="165" />
-  </a>
-</p>
 
 ---
 
